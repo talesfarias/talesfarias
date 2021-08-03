@@ -7,8 +7,8 @@
 
 <div>
    <a href="https://github.com/talesfarias/talesfarias"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=talesfarias&show_icons=true&theme=tokyonight&include_all_commits=true"/> 
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talesfarias&layout=compact&langs_count=4&theme=tokyonight"/> 
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=talesfarias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" style="max-width:100%;"/> 
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talesfarias&layout=compact&langs_count=4&theme=tokyonight" style="max-width:100%;"/> 
    </a>
 </div>
 
